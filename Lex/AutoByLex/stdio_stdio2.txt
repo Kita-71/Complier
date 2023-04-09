@@ -1,0 +1,7 @@
+int main()
+{
+	int a;
+	void b;
+	return 0;
+}
+"here_is_stdio_stdio2.txt"

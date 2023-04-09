@@ -1,0 +1,5 @@
+#include              <stdio2_stdio.txt>
+1234bbb
+bbb1234
+"here_is_stdio2.txt"
+return;

@@ -1,0 +1,3 @@
+#include<stdio_stdio2.txt>
+"here_is_stdio.txt"
+return happy;

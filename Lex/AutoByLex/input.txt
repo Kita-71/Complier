@@ -1,0 +1,16 @@
+#include<stdio.txt>
+#include <stdio2.txt>
+!=;
+!+;
+!;
+<=；
+<!;
+>=;
+>!;
+printf("hellp\"world");
+int main()
+{
+    void a;
+    int b;
+    
+}
